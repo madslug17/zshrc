@@ -1,0 +1,2 @@
+# zshrc
+Z Shell Config
